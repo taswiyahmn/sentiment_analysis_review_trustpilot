@@ -1,0 +1,10 @@
+pandas
+numpy
+string
+re
+nltk
+tensorflow
+imblearn
+sklearn
+keras
+tensorflow.keras
